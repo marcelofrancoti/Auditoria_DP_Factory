@@ -1,0 +1,6 @@
+[Evento] 14/04/2023 01:55:34: Evento de teste
+[Erro] 14/04/2023 01:55:48: Erro de teste
+System.Exception: Exceção de teste
+[Evento] 15/04/2023 01:46:18: Evento de teste
+[Erro] 15/04/2023 01:46:20: Erro de teste
+System.Exception: Exceção de teste
